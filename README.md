@@ -1,7 +1,8 @@
 EggTimer - Final Code 
 ============================================================================
 
-Solution code for Advanced Android with Kotlin Codelab 
+Solution code for Advanced Android with Kotlin Codelab
+
 Codelabs Link: https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-notifications/
 
 Introduction
